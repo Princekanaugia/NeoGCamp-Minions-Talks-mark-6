@@ -16,7 +16,7 @@ function getTranslationUrl(text) {
 };
 
 function errorHandler(error){
-    alert("error occured!! on serverside. please try again later");
+    alert("error occured!! on server-side.\nPlease try again later");
 
 };
 
