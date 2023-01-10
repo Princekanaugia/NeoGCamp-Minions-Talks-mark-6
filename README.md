@@ -4,6 +4,7 @@
  - HTML5
  - CSS3
  - JavaScript
+ - Netlify for CI/CD
 
 ## Preview Link
 https://miniontalks-prince.netlify.app/
