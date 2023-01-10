@@ -1,2 +1,14 @@
 # NeoGCamp-Minions-Talks-mark-6
-This is a fun translator which convert your english text in minions language. it was made using vanilla JS as a mark-6 assignment of neogcamp level-0. 
+**Minions Talks** is a fun translator which convert your english text in Minions language. This App was made as part of **level Zero** of **NeoGCamp**. 
+## Technologies used
+ - HTML5
+ - CSS3
+ - JavaScript
+
+## Preview Link
+https://miniontalks-prince.netlify.app/
+### Home Page
+![homepage](https://github.com/Princekanaugia/NeoGCamp-Minions-Talks-mark-6/blob/main/images/miniontalk.PNG?raw=true)
+
+
+Hope you will like it..
